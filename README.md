@@ -1,2 +1,2 @@
 # Dice_App
-The Dice app is a mobile application built using the Flutter framework, designed to simulate the roll of a dice
+The Dice app is a mobile application built using the Flutter framework, designed to simulate the roll of a dice. The app offers a seamless user experience with an intuitive design that allows users to roll the dice by tapping on the screen. The Flutter framework, being a modern and efficient tool for building mobile apps, ensures that the Dice app runs smoothly on various platforms, including iOS and Android. The app is lightweight, making it easy to download and install on any device. The Dice app is an excellent example of how the Flutter framework can be used to build engaging and functional mobile applications with ease.
